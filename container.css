@@ -1,0 +1,17 @@
+.container {
+	width: 700px;
+	margin: 0px auto;
+	padding: 40px auto;
+}
+
+.container h3 {
+	font-size: smaller;
+	margin-bottom: 20px;
+}
+
+#intro {
+	box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	padding: 20px 30px;
+	margin-top: 20px;
+}
